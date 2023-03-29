@@ -1,0 +1,39 @@
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\appsettings.Development.json
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\appsettings.json
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Usos de JWT.exe
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Usos de JWT.deps.json
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Usos de JWT.runtimeconfig.json
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Usos de JWT.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Usos de JWT.pdb
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\Usos de JWT.csproj.AssemblyReference.cache
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\Usos de JWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\Usos de JWT.AssemblyInfoInputs.cache
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\Usos de JWT.AssemblyInfo.cs
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\Usos de JWT.csproj.CoreCompileInputs.cache
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\Usos de JWT.MvcApplicationPartsAssemblyInfo.cs
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\Usos de JWT.MvcApplicationPartsAssemblyInfo.cache
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\staticwebassets\msbuild.Usos de JWT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\staticwebassets\msbuild.build.Usos de JWT.props
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Usos de JWT.props
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Usos de JWT.props
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\staticwebassets.build.json
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\staticwebassets.development.json
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\scopedcss\bundle\Usos de JWT.styles.css
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\Usos de JWT.csproj.CopyComplete
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\Usos de JWT.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\refint\Usos de JWT.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\Usos de JWT.pdb
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\Usos de JWT.genruntimeconfig.cache
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\obj\Debug\net6.0\ref\Usos de JWT.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROGRAMACION\PROYECTOS\Usos de JWT\Usos de JWT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
